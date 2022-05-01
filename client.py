@@ -120,3 +120,4 @@ while True:
         break
     else:
         print("Command not recognized. Please try again.")
+        print("Done")
